@@ -1,1 +1,1 @@
-class Test(val field1: String) 
+class Test(val field1: String)
