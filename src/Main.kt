@@ -1,5 +1,5 @@
 fun main() {
-    println("initial state")
+    println("changed state")
 }
 
 fun notMain() {
